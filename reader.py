@@ -61,7 +61,7 @@ if len(sys.argv) > 1:
     filename = sys.argv[1]
 else:
     print(f"Try {sys.argv[0]} [filename]")
-    filename = input("Drag>")
+    filename = input("Drag>").replace('"',"")
 
 result = read_specimen_data(filename)
 
