@@ -17,6 +17,8 @@ _You may use command-line parameter for easier specification of the file name._
 
 ## Converter usage
 
+_Note: Not intended for end users._
+
 1. Install `xlrd` and `pandas`
 2. Put the `converter.py` in same directory as all the .xls files
 3. Run `converter.py`
