@@ -1,4 +1,4 @@
-# ISDN2603-Raman-spectroscopy
+# ISDN2603-IR-spectroscopy
 Raman spectroscopy CSV parsing and display
 
 ## Usage
