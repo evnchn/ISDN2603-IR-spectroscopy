@@ -15,3 +15,8 @@ _You may use command-line parameter for easier specification of the file name._
 
 <img width="482" alt="image" src="https://github.com/evnchn/ISDN2603-Raman-spectroscopy/assets/37951241/ade23269-8cef-4f61-a216-cc785275a431">
 
+## Converter usage
+
+1. Install `xlrd` and `pandas`
+2. Put the `converter.py` in same directory as all the .xls files
+3. Run `converter.py`
