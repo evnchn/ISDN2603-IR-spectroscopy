@@ -1,5 +1,5 @@
 # ISDN2603-IR-spectroscopy
-Raman spectroscopy CSV parsing and display
+IR spectroscopy CSV parsing and display
 
 ## Usage
 
